@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pre-final year B.Tech CSE student specializing in Data Science.<br>Interested in Cyber Security, Web Development, and problem-solving using Java and DSA.<br>Continuously improving problem-solving skills and computer science fundamentals through practical learning.<br>
+Pre-final year B.Tech CSE student specializing in Data Science.<br>Interested in Cyber Security, Web Development and problem-solving using Java and DSA.<br>Continuously improving problem-solving skills and computer science fundamentals through practical learning.<br>
 
 
 ## 🌐 Socials:
