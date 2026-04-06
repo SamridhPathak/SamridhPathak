@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+👋;Data+Science+Student+📊;Web+Developer+💻;DSA+%7C+Java+⚡;Building+Projects+and+Learning+Daily+🚀" />
+</p>
+
 # 💫 Hey there! I'm Samridh Pathak
 **📊 A pre-final year B.Tech CSE student specializing in Data Science.<br>📈 Interested in Cyber Security, Web Development and problem-solving using Java and DSA.<br>⚡ Continuously improving problem-solving skills and computer science fundamentals through practical learning.**
 
@@ -78,16 +82,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
 </p>
 
-<br><br>
-
-## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamridhPathak&show_icons=true&theme=merko&hide_border=false" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=SamridhPathak&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://raw.githubusercontent.com/SamridhPathak/SamridhPathak/main/wave.svg" alt="Wave" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamridhPathak&layout=compact&theme=merko&hide_border=false" height="180"/>
-</p>
-
