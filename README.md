@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+👋;Data+Science+Student+📊;Web+Developer+💻;DSA+%7C+Java+⚡;Building+Projects+and+Learning+Daily+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+👋;Data+Science+Student+📊;Web+Developer+💻;DSA+%7C+Java+⚡;Driven+to+build+and+learn!💪🏻" />
 </p>
 
 # 💫 Hey there! I'm Samridh Pathak
-**📊 A pre-final year B.Tech CSE student specializing in Data Science.<br>📈 Interested in Cyber Security, Web Development and problem-solving using Java and DSA.<br>⚡ Continuously improving problem-solving skills and computer science fundamentals through practical learning.**
+**📊 A pre-final year B.Tech CSE student specializing in Data Science.<br>📈 Interested in Cyber Security, Web Development and problem-solving using Java and DSA.<br>⚡ Continuously improving problem-solving skills and computer science fundamentals through practical learning.<br>💪🏻 Driven to build and learn!**
 
 
 ## 🌐 Socials:
