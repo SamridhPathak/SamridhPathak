@@ -6,8 +6,41 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+👋;Data+Science+Student+📊;Web+Developer+💻;DSA+%7C+Java+⚡;Driven+to+build+and+learn!💪🏻" />
 </p>
 
-# 💫 Hey there! I'm Samridh Pathak
-**📊 A pre-final year B.Tech CSE student specializing in Data Science.<br>📈 Interested in Cyber Security, Web Development and problem-solving using Java and DSA.<br>⚡ Continuously improving problem-solving skills and computer science fundamentals through practical learning.<br>💪🏻 Driven to build and learn!**
+## 🎯 About Me
+
+```bash
+$ whoami
+
+Name        : Samridh Pathak
+Education   : B.Tech CSE (Data Science) @ SRMIST
+CGPA        : 8.63
+Status      : Pre-Final Year Student
+Location    : India 🇮🇳
+Role        : Aspiring Software Engineer | Web Developer
+Open To     : SDE, Data & AI Internships
+
+
+$ interests
+
+📈 Data Science
+🔐 Cyber Security
+🌐 Web Development
+🧩 Problem Solving
+
+
+$ current_focus
+
+→ Strengthening DSA and Computer Science Fundamentals
+→ Building Real-World Web Applications
+→ Continuously learning, building and improving every day
+
+
+$ philosophy
+
+"Driven to Build & Learn!."
+
+Status: Available for internships, collaborations and opportunities 🚀
+```
 
 
 ## 🌐 Socials
@@ -62,7 +95,7 @@
 
 
 
-### 🛢️ Databases & Backend
+### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-D00000?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -90,7 +123,10 @@
 
 </div>
 
----
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 💼 Experience
 
@@ -132,15 +168,14 @@
 ---
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
-<br><br>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamridhPathak&theme=tokyonight)
+
+</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
 </p>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
