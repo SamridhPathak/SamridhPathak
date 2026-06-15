@@ -110,6 +110,7 @@ Status: Available for internships, collaborations and opportunities 🚀
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=yolo&logoColor=white)
 
 
 
@@ -125,7 +126,7 @@ Status: Available for internships, collaborations and opportunities 🚀
 
 ### ☁️ Cloud & Deployment
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
