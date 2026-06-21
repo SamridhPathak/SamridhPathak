@@ -13,8 +13,8 @@ $ whoami
 
 Name        : Samridh Pathak
 Education   : B.Tech CSE (Data Science) @ SRMIST
-CGPA        : 8.63
-Status      : Pre-Final Year Student
+CGPA        : 8.78
+Status      : Final Year Student
 Location    : India 🇮🇳
 Role        : Aspiring Software Engineer | Web Developer
 Open To     : SDE, Data & AI Internships
